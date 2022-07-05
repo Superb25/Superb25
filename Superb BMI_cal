@@ -1,0 +1,14 @@
+# DON'T CHANGE THE CODE BELOW
+height = input('Enter your height in m: ')
+weight = input('Enter your weight in kg: ')
+# DON'T CHANGE THE CODE ABOVE
+
+##############################################
+# Write your code below.
+
+b_weight = float(weight)
+b_height = float(height)
+
+BMI = b_weight / (b_height **2)
+bmi = round(BMI)
+print(bmi)
