@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superb25
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Data science
+- 🌱 I’m currently learning ...python, R, ML
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...aminamosisah@gmail.com
 
